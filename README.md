@@ -5,7 +5,7 @@ DarkTheme — color scheme for WebStorm 6
 ## Installation
 
 ```
-$ git clone git://github.com/blacktears/dark-theme.git
+$ git clone git://github.com/blacktears/dark-max.git
 $ cp DarkTheme/*.icls ~/.WebStorm6/config/colors
 ```
 
